@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Fork0n
+- 👀 I’m interested in researching and engineering real life projects and making any software type projects
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on minecraft modpacks and my personal irl project "Loonie"
+- 📫 How to reach me ncolas.dormenco@gmail.com, @fork0n at tik tok, insta, elegram and discord
+- 😄 Pronouns: He/Him or whatever
+- ⚡ Fun fact: nothing to see here...
