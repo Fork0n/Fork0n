@@ -2,6 +2,6 @@
 - 👀 I’m interested in researching and engineering real life projects and making any software type projects
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on minecraft modpacks and my personal irl project "Loonie"
-- 📫 How to reach me nicolas.dormenco@gmail.com, @fork0n at tik tok, insta, elegram and discord
+- 📫 How to reach me nicolas.dormenco@gmail.com, @fork0n at tik tok, insta, telegram and discord
 - 😄 Pronouns: He/Him or whatever
 - ⚡ Fun fact: nothing to see here...
