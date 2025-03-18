@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fork0n
-- 👀 I’m interested in researching and engineering real life projects and making any software type projects
-- 🌱 I’m currently learning JS, java, cpp and c#
-- 📫 How to reach me nicolas.dormenco＠gmail.com, @fork0n - anywhere else
-- 😄 Pronouns: He/Him or whatever
-- ⚡ Fun fact: nothing to see here...
+- I’m @Fork0n
+- I’m interested in researching and engineering real life projects and making any software type projects
+- I’m currently learning JS, java (kotlin), cpp and c#
+- Contact info: nicolas.dormenco＠gmail.com, @fork0n - anywhere else
+- Pronouns: He/Him or whatever
+- Fun fact: nothing to see here...
