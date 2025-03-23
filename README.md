@@ -5,4 +5,4 @@
 - Pronouns: He/Him or whatever
 - Fun fact: nothing to see here...
 
-![forkosssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![forkosssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fork0n&show_icons=true&theme=dracula)
