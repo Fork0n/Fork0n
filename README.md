@@ -4,3 +4,5 @@
 - Contact info: nicolas.dormenco＠gmail.com, @fork0n - anywhere else
 - Pronouns: He/Him or whatever
 - Fun fact: nothing to see here...
+
+![forkosssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
